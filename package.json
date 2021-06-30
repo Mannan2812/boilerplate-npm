@@ -3,6 +3,7 @@
 	"description": "Project to learn API and Microservices, awesome certification present on FreeCodeCamp",
 	"keywords": ["freecodecamp", "api", "microservices", "beginner"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
