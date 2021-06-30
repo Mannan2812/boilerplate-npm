@@ -1,12 +1,18 @@
 {
 	"author": "Mannan Bansal",
 	"description": "Project to learn API and Microservices, awesome certification present on FreeCodeCamp",
-	"keywords": ["freecodecamp", "api", "microservices", "beginner"],
+	"keywords": [
+		"freecodecamp",
+		"api",
+		"microservices",
+		"beginner"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
