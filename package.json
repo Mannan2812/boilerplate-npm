@@ -1,5 +1,6 @@
 {
 	"author": "Mannan Bansal",
+	"description": "Project to learn API and Microservices, awesome certification present on FreeCodeCamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
